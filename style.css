@@ -2,7 +2,7 @@
 #hero-frame {
     background-position: center;
     background-size: cover;
-    background-image: url(/images/heroImg.jpg);
+    background-image: url(images/heroImg.jpg);
     min-height: 75%;
     filter: grayscale(75%);
 }
